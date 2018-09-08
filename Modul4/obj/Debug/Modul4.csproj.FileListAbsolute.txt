@@ -1,0 +1,7 @@
+D:\Visual Studio\C# Projects\Modul4\Modul4\bin\Debug\Modul4.exe.config
+D:\Visual Studio\C# Projects\Modul4\Modul4\bin\Debug\Modul4.exe
+D:\Visual Studio\C# Projects\Modul4\Modul4\bin\Debug\Modul4.pdb
+D:\Visual Studio\C# Projects\Modul4\Modul4\obj\Debug\Modul4.csprojAssemblyReference.cache
+D:\Visual Studio\C# Projects\Modul4\Modul4\obj\Debug\Modul4.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# Projects\Modul4\Modul4\obj\Debug\Modul4.exe
+D:\Visual Studio\C# Projects\Modul4\Modul4\obj\Debug\Modul4.pdb

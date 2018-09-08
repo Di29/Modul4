@@ -11,6 +11,7 @@ namespace Modul4
         public int denominationOfBanknote;
         public int amountOfBanknote;
         public int valueOfProduct;
+        
 
         public Money(int denomination, int amount)
         {
@@ -54,7 +55,7 @@ namespace Modul4
             else return false;
         }
 
-        public int HowProductCanBuy (int valueOfProduct, int availableMoney)
+        public int HowMuchProductCanBuy (int valueOfProduct, int availableMoney)
         {
             availableMoney = GetCalculateSum(denominationOfBanknote, amountOfBanknote);
 
